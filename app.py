@@ -28,8 +28,8 @@ def home():
     </head>
     <body>
         <div>
-            ya no quiero trabajar, despidanme
-            nueva linea
+            <h1>¡Bienvenidos :) TODOS!</h1>
+            <p> Prueba de jenkins </p>
         </div>
     </body>
     </html>
