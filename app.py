@@ -27,9 +27,11 @@ def home():
         </style>
     </head>
     <body>
-        <h1>¡Bienvenidos :)!</h1>
-        <br>
-        <p> Prueba de cambio de texto </p>
+        <div>
+            <h1>¡Bienvenidos :)!</h1>
+            <br>
+            <p> Prueba de cambio de texto </p>
+        </div>
     </body>
     </html>
     '''
