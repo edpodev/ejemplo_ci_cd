@@ -30,6 +30,7 @@ def home():
         <div>
             <h1>¡Bienvenidos :) TODOS!</h1>
             <p> Prueba de jenkins </p>
+            <p> Hola soy Daniel! </p>
         </div>
     </body>
     </html>
