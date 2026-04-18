@@ -22,6 +22,7 @@ def home():
             h1 {
                 font-size: 3rem;
                 color: #333;
+                display: block;
             }
         </style>
     </head>
