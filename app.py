@@ -29,6 +29,7 @@ def home():
     <body>
         <div>
             ya no quiero trabajar, despidanme
+            nueva linea
         </div>
     </body>
     </html>
