@@ -27,6 +27,7 @@ def home():
     </head>
     <body>
         <h1>¡Bienvenidos :)!</h1>
+        <h2> IPC1 SECCION D </h2>
     </body>
     </html>
     '''
