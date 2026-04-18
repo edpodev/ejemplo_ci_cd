@@ -29,7 +29,7 @@ def home():
     <body>
         <div>
             <h1>¡Bienvenidos :)!</h1>
-            <p> Introducción a la Programación y Computación 1 - 770 Seccion D </p>
+            <p> Mi primer cambio </p>
         </div>
     </body>
     </html>
