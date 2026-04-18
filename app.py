@@ -28,9 +28,7 @@ def home():
     </head>
     <body>
         <div>
-            <h1>¡Bienvenidos :) TODOS!</h1>
-            <p> Prueba de jenkins </p>
-            <p> Hola soy Daniel! </p>
+            ya no quiero trabajar, despidanme
         </div>
     </body>
     </html>
